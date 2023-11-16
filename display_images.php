@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 // Replace these database credentials with your actual credentials
-$host = "private-kube-db-do-user-14987761-0.c.db.ondigitalocean.com";
+$host = "kube-db-do-user-14987761-0.c.db.ondigitalocean.com";
 $username = "doadmin";
 $password = "AVNS_KWS4DUfpfGlFR_Sb6Xf";
 $database = "defaultdb";
